@@ -1,1 +1,9 @@
+Participantes del equipo: 
+- ALFA: Tomas Fabris 
+- BETA: Pablo Nuñez
 
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+Si, ALFA puede ver los datos que cargaron los demas en el repositorio
+
+b) ¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si, cuando ALFA agrega un archivo los demas integrantes del equipo pueden verlo.
